@@ -35,6 +35,7 @@ PRODUCT_PACKAGES += \
     PrebuiltBugle \
     PrebuiltDeskClockGoogle \
     WallpaperPickerGooglePrebuilt \
+    WallpapersBReel \
     WallpapersUsTwo
 
 # /priv-app
@@ -68,4 +69,9 @@ PRODUCT_PACKAGES += \
     com.google.android.dialer.support \
     com.google.android.maps \
     com.google.android.media.effects
+
+# Live Wallpapers Libs
+PRODUCT_PACKAGES += \
+    libgdx.so \
+    libgeswallpapers-jni.so
 
