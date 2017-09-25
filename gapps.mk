@@ -21,6 +21,22 @@ PRODUCT_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     libfacenet.so
 
+# /app
+PRODUCT_PACKAGES += \
+    CalculatorGooglePrebuilt \
+    CalendarGooglePrebuilt \
+    FaceLock \
+    GoogleCamera \
+    GoogleContactsSyncAdapter \
+    GoogleTTS \
+    LatinIMEGooglePrebuilt \
+    NexusWallpapersStubPrebuilt \
+    Photos \
+    PrebuiltBugle \
+    PrebuiltDeskClockGoogle \
+    WallpaperPickerGooglePrebuilt \
+    WallpapersUsTwo
+
 # /framework
 PRODUCT_PACKAGES += \
     com.google.android.camera.experimental2016 \
