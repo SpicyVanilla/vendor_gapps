@@ -37,6 +37,29 @@ PRODUCT_PACKAGES += \
     WallpaperPickerGooglePrebuilt \
     WallpapersUsTwo
 
+# /priv-app
+PRODUCT_PACKAGES += \
+    AndroidPlatformServices \
+    ConfigUpdater \
+    ConnMetrics \
+    GmsCoreSetupPrebuilt \
+    GoogleBackupTransport \
+    GoogleContacts \
+    GoogleDialer \
+    GoogleFeedback \
+    GoogleOneTimeInitializer \
+    GooglePartnerSetup \
+    GoogleServicesFramework \
+    Phonesky \
+    PrebuiltGmsCore \
+    DynamiteLoader.apk \
+    DynamiteModulesA \
+    DynamiteModulesB \
+    DynamiteModulesC \
+    DynamiteModulesD \
+    GoogleCertificates \
+    SetupWizard
+
 # /framework
 PRODUCT_PACKAGES += \
     com.google.android.camera.experimental2016 \
