@@ -59,6 +59,7 @@ PRODUCT_PACKAGES += \
     DynamiteModulesD \
     GoogleCertificates \
     SetupWizard \
+    Turbo \
     Velvet
 
 # /framework
