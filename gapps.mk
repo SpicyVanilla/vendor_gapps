@@ -58,7 +58,8 @@ PRODUCT_PACKAGES += \
     DynamiteModulesC \
     DynamiteModulesD \
     GoogleCertificates \
-    SetupWizard
+    SetupWizard \
+    Velvet
 
 # /framework
 PRODUCT_PACKAGES += \
