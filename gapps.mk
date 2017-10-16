@@ -51,6 +51,7 @@ PRODUCT_PACKAGES += \
     GoogleOneTimeInitializer \
     GooglePartnerSetup \
     GoogleServicesFramework \
+    NexusLauncherPrebuilt \
     Phonesky \
     PrebuiltGmsCore \
     DynamiteLoader.apk \
