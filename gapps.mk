@@ -36,7 +36,8 @@ PRODUCT_PACKAGES += \
     PrebuiltDeskClockGoogle \
     WallpaperPickerGooglePrebuilt \
     WallpapersBReel \
-    WallpapersUsTwo
+    WallpapersUsTwo \
+    WebViewStub
 
 # /priv-app
 PRODUCT_PACKAGES += \
