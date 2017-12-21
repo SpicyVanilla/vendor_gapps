@@ -29,15 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/gapps/lib64/libfrsdk.so:system/lib64/libfrsdk.so \
     vendor/gapps/lib64/libgdx.so:system/lib64/libgdx.so \
     vendor/gapps/lib64/libgeswallpapers-jni.so:system/lib64/libgeswallpapers-jni.so \
-    vendor/gapps/priv-app/Velvet/lib/arm64/libbrotli.so:system/priv-app/Velvet/lib/arm64/libbrotli.so \
-    vendor/gapps/priv-app/Velvet/lib/arm64/libccl.so:system/priv-app/Velvet/lib/arm64/libccl.so \
-    vendor/gapps/priv-app/Velvet/lib/arm64/libcronet.59.0.3071.25.so:system/priv-app/Velvet/lib/arm64/libcronet.59.0.3071.25.so \
-    vendor/gapps/priv-app/Velvet/lib/arm64/libframesequence.so:system/priv-app/Velvet/lib/arm64/libframesequence.so \
-    vendor/gapps/priv-app/Velvet/lib/arm64/libgoogle_speech_jni.so:system/priv-app/Velvet/lib/arm64/libgoogle_speech_jni.so \
-    vendor/gapps/priv-app/Velvet/lib/arm64/libgoogle_speech_micro_jni.so:system/priv-app/Velvet/lib/arm64/libgoogle_speech_micro_jni.so \
-    vendor/gapps/priv-app/Velvet/lib/arm64/libnativecrashreporter.so:system/priv-app/Velvet/lib/arm64/libnativecrashreporter.so \
-    vendor/gapps/priv-app/Velvet/lib/arm64/liboffline_actions_jni.so:system/priv-app/Velvet/lib/arm64/liboffline_actions_jni.so \
-    vendor/gapps/priv-app/Velvet/lib/arm64/libthird_party_brotli_dec_jni.so:system/priv-app/Velvet/lib/arm64/libthird_party_brotli_dec_jni.so \
     vendor/gapps/usr/srec/en-US/am_phonemes.syms:system/usr/srec/en-US/am_phonemes.syms \
     vendor/gapps/usr/srec/en-US/app_bias.fst:system/usr/srec/en-US/app_bias.fst \
     vendor/gapps/usr/srec/en-US/APP_NAME.fst:system/usr/srec/en-US/APP_NAME.fst \
