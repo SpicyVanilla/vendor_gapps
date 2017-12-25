@@ -28,6 +28,7 @@ PRODUCT_PACKAGES += \
     FaceLock \
     GoogleCamera \
     GoogleContactsSyncAdapter \
+    GoogleNow \
     GoogleTTS \
     LatinIMEGooglePrebuilt \
     NexusWallpapersStubPrebuilt \
